@@ -21,7 +21,7 @@ setup(
           ' based on Inquirer.js'
     ),
     license='MIT',
-    url='https://github.com/vrgbrg/PyInquirer/',
+    url='https://github.com/CITGuru/PyInquirer/',
     python_requires=">=3.6.1",
     classifiers=[
         'Development Status :: 1 - Planning',
